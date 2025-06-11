@@ -1,0 +1,35 @@
+:root {
+--dark_mnt_blue: #14222d;
+--mnt_rock_grey: #46525e;
+--mnt_rock_bluegrey: #6d859f;
+--snow_grey: #cbd6da;
+--snow_white: #f7ffff;
+--mnt_side_darkblue: #011e48;
+--mnt_deepsky: #224d84;
+--mnt_deeosk2: #1086ce;
+--mnt_sky: #8fc8f3;
+--indigo_grey: #3d52a0;
+--ice_bluegrey: #d6dbdf;
+--light_bluegrey: #7091e6;
+--silver: #c0c0c0;
+--brnt_orange: #be5014;
+--very_darkgreen: #023020;
+--very_darkred: #300212;
+--electric_blue: #7DF9FF;
+--Gghost: #f8f8ff;
+--cold_steel: #f8f7f4;
+--cloud_wisp: #f1fAFF;
+--darker_gold: #d9ca03;
+--forward_red: #810003;
+ --dark_steel: #333232;
+ --ls_blue1: #83bfff;
+ --ls_blue2: #0057d6;
+ --ls_blue3: #0057d6;
+ --ls_purple1: #9c86e0;
+ --ls_purple2: #7762ba;
+ --ls_purple3: #4e3f7e;
+ --ls_purple4: #271a4f;
+ --prof_bluegrey: #466995;
+--glory_red: #b31942;
+--glory_blue:#0a3161;
+}
